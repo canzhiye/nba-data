@@ -7,7 +7,7 @@ interesting data that I've scraped from stats.nba.com
 
 Shots data
 ---
-The NBA has been tracking the exact location of every single shot that's been taken since the 2001-02 season.
+The NBA has been tracking the exact location (x, y coordinates) of every single shot that's been taken since the 2001-02 season.
 
 shotsdata.txt is a dump of this data from a Postgres database. 
 
